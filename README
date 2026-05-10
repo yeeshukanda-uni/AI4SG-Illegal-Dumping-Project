@@ -16,14 +16,14 @@ Input: Text complaint or image of illegal dumping
 AI Processing: Extracts structured JSON + analyzes images
 Output: Standardized report (location, urgency, department, environmental impact)
 Action: Sent to San Jose 311 system for response and verification
-📸 Screenshots
+Screenshots
 JSON structured output:
 Multilingual detection:
 Image analysis:
 Failure case:
-⚠️ 4. Failure Case
+4. Failure Case
 The system may misclassify homeless encampments with trash as purely environmental issues.
 This can result in incorrect routing and inappropriate response from city departments.
-⚖️ 5. Ethical Consideration
+5. Ethical Consideration
 While AI improves efficiency and accessibility, it can misclassify complex social issues.
 Human oversight is necessary to handle edge cases and ensure fair and responsible deployment.
