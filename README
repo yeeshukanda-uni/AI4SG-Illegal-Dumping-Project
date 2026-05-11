@@ -24,6 +24,6 @@ Failure case:
 4. Failure Case
 The system may misclassify homeless encampments with trash as purely environmental issues.
 This can result in incorrect routing and inappropriate response from city departments.
-5. Ethical Consideration
-While AI improves efficiency and accessibility, it can misclassify complex social issues.
-Human oversight is necessary to handle edge cases and ensure fair and responsible deployment.
+5. Oversight and Tradeoff
+Human review is required for edge cases such as homeless encampments mixed with waste. These cases are flagged for manual inspection by city staff instead of being fully automated.
+The tradeoff is that adding human oversight slows down response time and reduces full automation efficiency, but it improves fairness, accuracy, and prevents misrouting sensitive social issues.
